@@ -4,11 +4,11 @@
 <div align="center">
   <img border-radius: 15px src="https://img.shields.io/badge" width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="BLACK-DEVIL" src="https://img.shields.io/badge-BLACKDEVIL-pink?&style=for-the-badge"></a>
+<a href="#"><img title="BLACK-DEVIL" src="https://i.imgur.com/PgaSqJV.jpeg/badge-BLACKDEVIL-pink?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/aneeslub"><img title="ANEES" src="https://i.imgur.com/PgaSqJV.jpeg/author-Anees?color=blue&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/aneeslub"><img title="ANEES" author-Anees?color=blue&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
