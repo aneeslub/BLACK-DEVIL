@@ -101,7 +101,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Raashii](https://github.com/Raashii.png?size=100)](https://github.com/Raashii) |  [![Jokerser](https://github.com/j0kerser.png?size=100)](https://github.com/j0kerser) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Raashii](https://github.com/.png?size=100)](https://github.com/Raashii) |  [![Jokerser](https://github.com/j0kerser.png?size=100)](https://github.com/j0kerser) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
 [ANEES](https://github.com/aneeslub)  | [Jokerser](https://github.com/j0kerser) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
