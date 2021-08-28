@@ -4,7 +4,7 @@
 <div align="center">
   <img border-radius: 15px src="https://i.ibb.co/9rrnJ7g/20210815-080839.jpg" width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="BLACK-DEVIL" src="https://img.shields.io/badge/-ZaraMwol-pink?&style=for-the-badge"></a>
+<a href="#"><img title="BLACK-DEVIL" src="https://img.shields.io/badge-BLACKDEVIL-pink?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
