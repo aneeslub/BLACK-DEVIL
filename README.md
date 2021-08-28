@@ -8,7 +8,7 @@
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/aneeslub"><img title="ANEES" src="https://img.shields.io/badge/author-Anees?color=blue&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/aneeslub"><img title="ANEES" src="https://i.imgur.com/PgaSqJV.jpeg/author-Anees?color=blue&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
