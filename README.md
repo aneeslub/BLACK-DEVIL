@@ -1,9 +1,7 @@
 ## Thanks for Everything 💖
 ### We will always remember you..
 
-<div align="center">
-  <img border-radius: 15px src="https://img.shields.io/badge" width="170" height="170"/>
-  <p align="center">
+
 <a href="#"><img title="BLACK-DEVIL" src="https://i.imgur.com/PgaSqJV.jpeg/badge-BLACKDEVIL-pink?&style=for-the-badge"></a>
 </p>
   </p>
