@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     
     
    
-  r_text[0] = "https://i.ibb.co/9rrnJ7g/20210815-080839.jpg";
+  r_text[0] = "https://i.imgur.com/PgaSqJV.jpeg";
     
     
     var i = Math.floor(1*Math.random())
@@ -21,16 +21,16 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: `*≈≈≈≈≈≈≈Links ☟︎︎︎≈≈≈≈≈≈≈≈*
  
 
-        *Github link        _https://tinyurl.com/yggyjfgf_*
+        *Github link        _https://github.com/aneeslub/BLACK-DEVIL*
  
 
-       *Audio commads-1     _https://tinyurl.com/yfdkmuhd_*
+       
  
  
-       *Audio commads-2     _https://tinyurl.com/yejp9qkh_*
+      
   
   
-      *Sticker commads      _https://tinyurl.com/yejlp33d_*
+      
 `}) 
 
 })); 
